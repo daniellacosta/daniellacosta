@@ -31,7 +31,7 @@ Atualmente estudando:
 - 🧠 Automação de testes end-to-end com Cypress
 - 🧩 Engenharia de Requisitos aplicada a QA
 - 📈 Melhoria de performance em testes automatizados
-- 👩‍💻 Atualização profissional para novas oportunidades de mercado
+
 
 ---
 
