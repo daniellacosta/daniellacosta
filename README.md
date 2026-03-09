@@ -17,18 +17,18 @@
 ## 🧰 Tecnologias e Ferramentas
 
 - **Testes:** Cypress, Postman, TestRail, Selenium, JUnit  
-- **Linguagens:** JavaScript, Java, SQL  
+- **Linguagens:** JavaScript, SQL  
 - **Metodologias:** Scrum, Kanban, Agile  
 - **Versionamento:** Git & GitHub  
 - **CI/CD:** Jenkins, GitHub Actions  
-- **Documentação e Gestão:** Jira, Confluence, Notion, Redmine, Assembla
+- **Documentação e Gestão:** Jira, Confluence, Notion, Redmine, Assembla, MS Planner
 
 ---
 
 ## 📚 Em constante aprendizado
 
 Atualmente estudando:
-- 🧠 Automação de testes end-to-end com Cypress
+- 🧠 Automação de testes end-to-end 
 - 🧩 Engenharia de Requisitos aplicada a QA
 - 📈 Melhoria de performance em testes automatizados
 
@@ -47,7 +47,7 @@ Atualmente estudando:
 ## 📬 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-Daniella%20Costa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniolicosta/)](https://www.linkedin.com/in/daniolicosta/)
-[![Email](https://img.shields.io/badge/-Contato%20por%20Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniolicosta@gmail.com)
+[![Email](https://img.shields.io/badge/-Contato%20por%20Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniella.ocosta@gmail.com)
 
 ---
 
