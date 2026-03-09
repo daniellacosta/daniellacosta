@@ -21,7 +21,7 @@
 - **Metodologias:** Scrum, Kanban, Agile  
 - **Versionamento:** Git & GitHub  
 - **CI/CD:** Jenkins, GitHub Actions  
-- **Documentação e Gestão:** Jira, Confluence, Notion, Redmine, Assembla, MS Planner
+- **Documentação e Gestão:** Jira, Confluence, Notion, Redmine, Assembla, MS Planner, Bookstack
 
 ---
 
